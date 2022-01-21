@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "AXA",
+    "classifications": [ "Console" ], 
+    "name": "AXA Interview",
+    "identity": "AXA.Interview",         
+    "groupIdentity":"AXA.Interview",
+    "shortName": "axainterview",
+    "tags": {
+      "language": "C#",
+      "type":"project"
+    },
+    "symbols":{
+      "includetest": {
+          "type": "parameter",
+          "datatype": "bool",
+          "defaultValue": "true"
+      }
+    },
+  }
